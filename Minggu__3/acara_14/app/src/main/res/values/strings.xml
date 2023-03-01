@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Minggu_4</string>
+    <string-array name="countries_array">
+        <item>Afghanistan</item>
+        <item>B</item>
+        <item>C</item>
+        <item>Afghanistan</item>
+        <item>Afghanistan</item>
+        <item>F</item>
+        <item>Afghanistan</item>
+        <item>Afghanistan</item>
+        <item>F</item>
+        <item>Afghanistan</item>
+        <item>Afghanistan</item>
+        <item>Afghanistan</item>
+    </string-array>
+</resources>

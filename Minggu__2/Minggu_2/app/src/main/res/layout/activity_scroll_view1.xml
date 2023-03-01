@@ -21,7 +21,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:id="@+id/fstText"
+            android:id="@+id/text"
             android:layout_marginTop="20dp"
             android:text="Welcome to Mobile"
             android:layout_gravity="center"></TextView>
