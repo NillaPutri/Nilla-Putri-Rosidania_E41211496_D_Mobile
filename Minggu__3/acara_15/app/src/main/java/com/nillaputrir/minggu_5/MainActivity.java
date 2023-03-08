@@ -35,5 +35,27 @@ public class MainActivity extends AppCompatActivity {
         mahasiswaArrayList.add(new Mahasiswa("Ahmad Hipnie Khoiri", "E41211496", "089504395516"));
         mahasiswaArrayList.add(new Mahasiswa("Yovie Gilang", "E41211496", "089504395516"));
         mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Nilla Putri Rosidania", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Zakariya", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Daffa Fauzi Rahman ", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Ahmad Hipnie Khoiri", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Yovie Gilang", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
+        mahasiswaArrayList.add(new Mahasiswa("Achmad Baihaqi", "E41211496", "089504395516"));
     }
 }
